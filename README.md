@@ -40,6 +40,4 @@ The goal of this project was to perform an exploratory analysis of ZARA’s sale
 - Conducting a seasonality analysis is recommended, as the dominance of one category may indicate demand fluctuations across different periods.  
 - Implementing ongoing KPI monitoring (category share, volume, average revenue) is advisable, as regular tracking of trends enables faster response to changes in sales performance.
 
----
 
-Jeśli chcesz, mogę przygotować również **wersję bardziej „portfolio‑ready”**, z dopracowanym językiem, storytellingiem i sekcją „Business Impact”.
