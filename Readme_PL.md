@@ -1,8 +1,22 @@
  # Analiza sprzedaży i zachowań zakupowych klientów ZARA - Dashboard w Excelu
+ versja: 1.0.0.
+ dostępne języki: English | [Polski]
 
-## Opis projektu 
+ Projekt pokazuje jak przy użyciu Power Query i Excela przeprowadziłem analizę sprzedażową, analizę sezonowości i wpływu promocji na zachowania klientów sieci Zara.
 
-Celem projektu była eksploracyjna analiza danych sprzedażowych marki ZARA, w celu identyfikacji trendów sprzedaży, sezonowości oraz czynników wpływających na przychody. Projekt koncentrował się na wyciągnięciu praktycznych wniosków wspierających decyzje biznesowe. 
+ Żródło danych: Dane pochodzą ze strony kaggle.com 
+
+ ## Podsumowanie 
+
+Przeprowadzona analiza dotyczy wpływu sezonowości na sprzedaż, określenia stopnia promocji na oferowane towary, jak i wpływu rozłożenia towaru w sklepie i wpływu na wysokość sprzedaży.  
+
+## Kontekst biznesowy / Pytrania do projektu 
+
+1. Które kategorie produktów generują największy przychód?
+2. Czy produkty promocyjne generująwiększy przychód niż te nieobjęte promocją? 
+3. Jak pozycja produktu w sklepie wpływa na sprzedaż?
+4. które produkty są tna topie pod względem przychodu?
+5. Czy produkty sezonowe sprzedają się lepiej niż  niesezonowe?
 
 ## Wykorzystywane narzędzia i techniki
 
@@ -40,8 +54,10 @@ Celem projektu była eksploracyjna analiza danych sprzedażowych marki ZARA, w c
 - Warto przygotować stały monitoring KPI (udział kategorii, wolumen, średni przychód), bo regularne śledzenie trendów ułatwi szybkie reagowanie na zmiany w sprzedaży.
 
 
+## Historia rozwoju projektu 
 
-
+|  Wesja | Data | Opis |
+| v. 1.0.0. | 14.02.2026 | Wersja pierwotna 
 
 
 
